@@ -284,6 +284,17 @@ DOOM II:
     - Secret Levels
     - Split Backpack
     - Backpack Count
+EarthBound:
+    - EarthBound
+    - Locations
+    - Name
+    - Shop Randomizer
+    - Dungeon Shuffle
+    - Magicant Mode
+    - Monkey Caves Mode
+    - No Free Sanctuaries
+    - Starting Character
+    - PSI Shuffle
 Factorio:
     - Factorio
     - Locations
@@ -436,6 +447,7 @@ Kingdom Hearts 2:
     - Name
     - Level Depth
     - Goal
+    - Add Casual Bounties
     - Final Xemnas
     - Lucky Emblems Available
     - Lucky Emblems Required
